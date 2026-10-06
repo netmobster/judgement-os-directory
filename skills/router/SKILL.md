@@ -1,6 +1,6 @@
 ---
 name: router
-description: "Thinking tools: gears, loops and modes. Use when the user names one (\"grumpy on this\", \"devil's advocate\", \"run forge\", \"root cause this\", \"night mode\") or asks for what one does: poke holes, stress-test, scout what's missing, brief before building, brainstorm options, land a decision, find the root cause, run a retro, hand off to the next session."
+description: "Thinking tools: gears, loops and modes. Use when the user wants a plan, idea, draft or decision looked at hard: \"what am I missing\", poke holes, stress-test, devil's advocate, grumpy, brief before building, brainstorm options, land a decision, find the root cause, run a retro, hand off to the next session. Also when they name a gear, loop or mode (\"run forge\", \"night mode\")."
 argument-hint: "<anything: \"grumpy on this\", \"forge the pricing idea\", \"what am I missing\">"
 ---
 

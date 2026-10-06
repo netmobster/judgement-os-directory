@@ -1,6 +1,6 @@
 ---
 name: sexyhtml
-description: Make a beautiful, finished HTML page (one-pager, explainer, report, MultiChoice report, picker, landing page or checklist) in one of the house styles. Use when the user says sexy html, "show me sexy html of…", a MultiChoice report, make this pretty, or make a page. It picks the style (ECHO-JAY by default, Seren for gaming, and a work style where this install has one) and the shape (a MultiChoice report when the page carries the user's decisions), with the Judgement OS weighing in when either is unclear; a named style goes straight to that style's skill.
+description: Make a beautiful, finished HTML page in one of the house styles. Use for any HTML or web page the user asks for, saved as a file or shown (a checklist, report, explainer, one-pager, landing page, picker, card or MultiChoice report), and when they say sexy html, "show me sexy html of…", make this pretty, or make a page. It picks the style (ECHO-JAY by default, Seren for gaming, and a work style where this install has one) and the shape (a MultiChoice report when the page carries the user's decisions), with the Judgement OS weighing in when either is unclear; a named style goes straight to that style's skill.
 argument-hint: "[style] <what the page is> [judge it]"
 ---
 

@@ -2,7 +2,7 @@
 
 A second opinion for your Claude Code skills, only when they need one. (*Not an operating system. The name is a joke; the plugin isn't.*)
 
-Version 0.2.5. Made by Jay Wright. [The Judgement OS page](https://unstuck-games.com/judgement-os/) has the whole story.
+Version 0.2.6. Made by Jay Wright. [The Judgement OS page](https://unstuck-games.com/judgement-os/) has the whole story.
 
 ## What it does
 
