@@ -1,0 +1,26 @@
+{
+  "name": "judgement-os",
+  "displayName": "Judgement OS",
+  "version": "0.2.5",
+  "description": "A second opinion for your Claude Code skills, only when they need one. Skills decide with a plain rule; at the few marked decisions where the answer depends on you, two judges weigh in, you settle what they both disagree on, and every call is logged. Plus a daily loop, house-style HTML pages, one front door for making things, 28 thinking tools, a send gate, hard-rule hooks and real dice.",
+  "author": {
+    "name": "Jay Wright"
+  },
+  "keywords": [
+    "judgement",
+    "second-opinion",
+    "daily",
+    "habits",
+    "html",
+    "design",
+    "thinking",
+    "safety",
+    "hooks",
+    "dice"
+  ],
+  "homepage": "https://unstuck-games.com/judgement-os/",
+  "repository": "https://github.com/netmobster/judgement-os-directory",
+  "documentationUrl": "https://github.com/netmobster/judgement-os-directory#readme",
+  "supportUrl": "https://github.com/netmobster/judgement-os-directory/issues",
+  "license": "MIT"
+}
