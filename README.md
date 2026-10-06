@@ -34,6 +34,17 @@ Then start with `/judgement-os:profile`. Until the profile exists, no judge is a
 
 Nothing to start. The day loop reads a TASKS.md in your project. Poll needs Claude's Slack connector. Everything Judgement OS keeps lives in `~/.claude/judgement-os/` on your machine; it never needs an account and sends nothing anywhere.
 
+## Privacy
+
+Judgement OS has no server and sends nothing anywhere. Everything it keeps stays on your machine, in `~/.claude/judgement-os/`:
+
+- **Your profile**, which you write yourself, and which only the two judges read.
+- **The judges' log**: each marked decision, the two verdicts and what was settled. It's append-only and stays local.
+- **Your settings, habits, daily reading and the day's state.**
+- **Slack:** poll reads only the channels you pick, through your own Claude Slack connector. A reply posts only when you approve its exact text, and the send gate blocks every other outbound message until you type "send".
+
+The judges are Claude subagents in your own session. Nothing is retained by the author, and there's no account to make. To remove everything, uninstall the plugin and delete `~/.claude/judgement-os/`.
+
 ## The same plugins, separately
 
 This is the plugin-directory build: everything in one plugin. The eight plugins also install one at a time from [netmobster/judgement-os-general](https://github.com/netmobster/judgement-os-general), where the commands keep their own names (`/labs:profile`, `/day:boot`).
